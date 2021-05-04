@@ -1,0 +1,12 @@
+{
+  "name": "topicecreamshops",
+  "version": "1.0.0",
+  "description": "Find top ice cream shops in alpharetta, georgia.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
